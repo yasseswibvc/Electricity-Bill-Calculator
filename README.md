@@ -1,7 +1,7 @@
 Electricity Bill Calculator
 
 This project is a simple C program that calculates the electricity bill based on:
--> Consumer category (Domestic / Commercial / Agricultural / Urban / Rural)
+-> Consumer category (Home / Commercial / Agricultural / Urban / Rural)
 -> Monthly units consumed
 -> GST, surcharge, and subsidies (if any)
 
